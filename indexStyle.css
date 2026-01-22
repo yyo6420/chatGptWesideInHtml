@@ -104,3 +104,38 @@ nav {
     border-radius: 15px;
     border: 0;
 }
+
+.main-container button {
+    position: absolute;
+    border-radius: 25px;
+    border: 0.01;
+    border-color: aliceblue;
+    background-color: white;
+    height: 2rem;
+    top: 4rem;
+}
+
+.main-container .voice {
+    left: 42rem;
+    width: 4rem;
+    height: 2rem;
+}
+
+.main-container .createImage {
+    left: 16.7rem;
+    width: 7rem;
+}
+
+.main-container .study {
+    left: 12.2rem;
+    width: 4rem;
+}
+
+.main-container .search{
+    left: 7.7rem;
+    width: 4rem;
+}
+
+.main-container .attach {
+    left: 3.8rem;
+}
