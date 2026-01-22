@@ -94,3 +94,13 @@ nav {
     border-style: solid;
     border-color: rgb(202, 198, 198);
 }
+
+.main-container #qestionsArea {
+    position: absolute;
+    top: 1rem;
+    left: 0.7rem;
+    width: 95%;
+    font-size: 1rem;
+    border-radius: 15px;
+    border: 0;
+}
