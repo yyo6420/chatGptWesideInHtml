@@ -44,7 +44,7 @@ nav {
     text-decoration: none;
 }
 
-.qestion-mark{
+.qestion-mark {
     position: absolute;
     border-radius: 100%;
     top: 0.7rem;
@@ -58,6 +58,39 @@ nav {
     left: 107rem;
     height: 2.5rem;
     width: 8.5rem;
-    border-radius: 40%;
+    border-radius: 25px;
     background-color: white;
+}
+
+.log-in {
+    position: absolute;
+    top: 0.7rem;
+    left: 102.5rem;
+    height: 2.5rem;
+    width: 3.8rem;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+}
+
+.main-container {
+    margin-top: 4rem;
+    width: 100%;
+}
+
+.main-container .main-qestion {
+    position: absolute;
+    top: 19rem;
+    left: 50.1rem;
+}
+
+.main-container .textareaDiv {
+    position: absolute;
+    top: 25rem;
+    left: 36rem;
+    width: 47rem;
+    height: 6.7rem;
+    border-radius: 25px;
+    border-style: solid;
+    border-color: rgb(202, 198, 198);
 }
